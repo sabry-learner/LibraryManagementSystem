@@ -1,0 +1,14 @@
+/home/bensabry/Desktop/myapp/LibrarySystem/bin/Debug/net8.0/LibrarySystem
+/home/bensabry/Desktop/myapp/LibrarySystem/bin/Debug/net8.0/LibrarySystem.deps.json
+/home/bensabry/Desktop/myapp/LibrarySystem/bin/Debug/net8.0/LibrarySystem.runtimeconfig.json
+/home/bensabry/Desktop/myapp/LibrarySystem/bin/Debug/net8.0/LibrarySystem.dll
+/home/bensabry/Desktop/myapp/LibrarySystem/bin/Debug/net8.0/LibrarySystem.pdb
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.AssemblyInfoInputs.cache
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.AssemblyInfo.cs
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.csproj.CoreCompileInputs.cache
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.dll
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/refint/LibrarySystem.dll
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.pdb
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/LibrarySystem.genruntimeconfig.cache
+/home/bensabry/Desktop/myapp/LibrarySystem/obj/Debug/net8.0/ref/LibrarySystem.dll
